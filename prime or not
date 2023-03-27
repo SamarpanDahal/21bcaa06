@@ -12,7 +12,8 @@ printf("Number is not prime");
 flag=1;    
 break;    
 }    
-}    
+}  
+// changes made  
 if(flag==0)    
 printf("Number is prime");     
 return 0;  
